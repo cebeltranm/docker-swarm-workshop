@@ -89,7 +89,6 @@ $ docker stop backend && docker rm backend
 and go to [http://localhost](http://localhost)
 
 stop the website container
-stop the backend container
 ```
 $ docker stop website && docker rm website
 ```
